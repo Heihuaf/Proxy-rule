@@ -1,4 +1,4 @@
-rule:
+rules:
   # Wuthering Waves Domain
   - DOMAIN-SUFFIX, kurogame-service.com
   - DOMAIN-SUFFIX, kurogame.xyz
