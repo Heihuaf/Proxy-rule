@@ -1,5 +1,5 @@
 使用方法一
-```
+```yaml
 # 订阅规则
 rule-providers:
   WutheringWaves:
@@ -16,8 +16,9 @@ rules:
   - RULE-SET, WutheringWaves, DIRECT 
 ```
 
+
 使用方法二，目前用的，抄的大佬的配置
-```
+```yaml
 # 配置作者：https://t.me/iKeLee
 # 适用版本：所有使用 mihomo 核心的程序
 # 锚点 - 规则参数 [每小时更新一次订阅规则，更新规则时使用DIRECT]
