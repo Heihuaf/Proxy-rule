@@ -1,0 +1,11 @@
+rule:
+  # Wuthering Waves Domain
+  - DOMAIN-SUFFIX, kurogame-service.com
+  - DOMAIN-SUFFIX, kurogame.xyz
+  - DOMAIN-SUFFIX, kurogame.net
+  - DOMAIN-SUFFIX, ali-game.net
+  - DOMAIN-SUFFIX, aki-game2.net
+  # Wuthering Waves UDP
+  - IP-CIDR, 43.133.9.0/3w
+  - IP-CIDR, 149.154.171.0/16
+  - IP-CIDR, 
