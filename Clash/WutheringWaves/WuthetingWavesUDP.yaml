@@ -4,6 +4,7 @@ payload:
   - IP-CIDR,43.133.0.0/16,no-resolve
   - IP-CIDR,43.130.0.0/16,no-resolve
   - IP-CIDR,43.154.0.0/16,no-resolve
+  - IP-CIDR,43.153.0.0/16,no-resolve
   - IP-CIDR,43.159.0.0/16,no-resolve
   - IP-CIDR,124.156.0.0/16,no-resolve
   - IP-CIDR,129.226.0.0/16,no-resolve
