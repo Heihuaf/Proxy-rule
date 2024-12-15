@@ -10,4 +10,3 @@ payload:
   - IP-CIDR,129.226.0.0/16,no-resolve
   # - IP-CIDR,198.41.0.0/16,no-resolve
   - DOMAIN,tqos-yun.listdl.com
-  - 1
