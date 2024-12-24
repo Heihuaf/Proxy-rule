@@ -1,6 +1,7 @@
 payload:
   # 鸣潮国际服 UDP
   - IP-CIDR,43.134.37.163/32,no-resolve
+  - IP-CIDR,43.134.166.120/32,no-resolve
   - IP-CIDR,43.134.180.172/32,no-resolve
   - IP-CIDR,43.134.185.94/32,no-resolve
   - IP-CIDR,43.134.229.84/32,no-resolve
