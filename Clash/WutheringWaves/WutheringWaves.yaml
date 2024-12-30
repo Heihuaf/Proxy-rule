@@ -1,12 +1,22 @@
 payload:
-  # 鸣潮国际服
-  # - DOMAIN,us-datareceiver.aki-game.net
-  # - DOMAIN,as-datareceiver.aki-game.net
-  # - DOMAIN,aki-config-huoshan.aki-game.net
-  # - DOMAIN,aki-gm-resources-back.aki-game.net
-  # - DOMAIN,web-sentry.kurogame.net
-  # - DOMAIN,qcloud-sg-datareceiver.kurogame.xyz
-  # - DOMAIN,sdkapi.kurogame-service.com
+  ## 鸣潮国际服
+  - DOMAIN,cdn-akamai-hw-mc.aki-game.net
+  - DOMAIN,cdn-qcloud-hw-mc.aki-game.net
+  - DOMAIN,cdn-aws-hw-mc.aki-game.net
+  - DOMAIN,cdn-huoshan-hw-mc.aki-game.net
+  - DOMAIN,us-datareceiver.aki-game.net
+  - DOMAIN,gar-service.aki-game.net
+  - DOMAIN,sdkapi.kurogame-service.com
+  - DOMAIN,sdk-prod-cdn-aws.kurogame-service.com
+  - DOMAIN,pc.perfsight.wetest.net
+  - DOMAIN,events.appsflyer.com
+  - DOMAIN,dl.listdl.com
+  - DOMAIN,as-datareceiver.aki-game.net
+  - DOMAIN,aki-config-huoshan.aki-game.net
+  - DOMAIN,aki-gm-resources-back.aki-game.net
+  - DOMAIN,web-sentry.kurogame.net
+  - DOMAIN,qcloud-sg-datareceiver.kurogame.xyz
+  
   - DOMAIN-SUFFIX,kurogame-service.com
   - DOMAIN-SUFFIX,kurogame.xyz
   - DOMAIN-SUFFIX,kurogame.net
