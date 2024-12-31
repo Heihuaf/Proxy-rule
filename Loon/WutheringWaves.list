@@ -1,30 +1,46 @@
-# 鸣潮国际服
-# DOMAIN,us-datareceiver.aki-game.net
-# DOMAIN,as-datareceiver.aki-game.net
-# DOMAIN,aki-config-huoshan.aki-game.net
-# DOMAIN,aki-gm-resources-back.aki-game.net
-# DOMAIN,web-sentry.kurogame.net
-# DOMAIN,qcloud-sg-datareceiver.kurogame.xyz
-# DOMAIN,sdkapi.kurogame-service.com
-DOMAIN-SUFFIX,kurogame-service.com
-DOMAIN-SUFFIX,kurogame.xyz
-DOMAIN-SUFFIX,kurogame.net
-DOMAIN-SUFFIX,aki-game.net
-DOMAIN-SUFFIX,aki-game2.net
-# 鸣潮国际服 UDP
-43.134.37.163/32,no-resolve
-43.134.180.172/32,no-resolve
-43.134.185.94/32,no-resolve
-43.134.229.84/32,no-resolve
+## 鸣潮国际服
+DOMAIN,cdn-akamai-hw-mc.aki-game.net
+DOMAIN,cdn-qcloud-hw-mc.aki-game.net
+DOMAIN,cdn-aws-hw-mc.aki-game.net
+DOMAIN,cdn-huoshan-hw-mc.aki-game.net
+DOMAIN,us-datareceiver.aki-game.net
+DOMAIN,gar-service.aki-game.net
+DOMAIN,sdkapi.kurogame-service.com
+DOMAIN,sdk-prod-cdn-aws.kurogame-service.com
+DOMAIN,pc.perfsight.wetest.net
+DOMAIN,events.appsflyer.com
+DOMAIN,dl.listdl.com
+DOMAIN,as-datareceiver.aki-game.net
+DOMAIN,aki-config-huoshan.aki-game.net
+DOMAIN,aki-gm-resources-back.aki-game.net
+DOMAIN,web-sentry.kurogame.net
+DOMAIN,qcloud-sg-datareceiver.kurogame.xyz
+  
+# DOMAIN-SUFFIX,kurogame-service.com
+# DOMAIN-SUFFIX,kurogame.xyz
+# DOMAIN-SUFFIX,kurogame.net
+# DOMAIN-SUFFIX,aki-game.net
+# DOMAIN-SUFFIX,aki-game2.net
+# DOMAIN,events.appsflyer.com
 
-43.153.193.128/32,no-resolve
-43.153.207.243/32,no-resolve
-43.153.215.221/32,no-resolve
+
+## 鸣潮国际服 UDP
+IP-CIDR,43.134.37.163/32,no-resolve
+IP-CIDR,43.134.166.120/32,no-resolve
+IP-CIDR,43.134.180.172/32,no-resolve
+IP-CIDR,43.134.185.94/32,no-resolve
+IP-CIDR,43.134.229.84/32,no-resolve
+
+IP-CIDR,43.153.193.128/32,no-resolve
+IP-CIDR,43.153.207.243/32,no-resolve
+IP-CIDR,43.153.215.221/32,no-resolve
   
-43.159.48.0/24,no-resolve
-# 43.159.48.93/32,no-resolve
-# -43.159.48.102/32,no-resolve
+IP-CIDR,43.159.48.0/24,no-resolve
+# IP-CIDR,43.159.48.93/32,no-resolve
+# IP-CIDR,43.159.48.102/32,no-resolve
   
-129.226.211.160/32,no-resolve
-129.226.144.132/32,no-resolve
-129.226.209.134/32,no-resolve
+IP-CIDR,129.226.211.160/32,no-resolve
+IP-CIDR,129.226.144.132/32,no-resolve
+IP-CIDR,129.226.209.134/32,no-resolve
+
+DOMAIN,tqos-yun.listdl.com
