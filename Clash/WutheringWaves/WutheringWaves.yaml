@@ -17,6 +17,10 @@ payload:
   - DOMAIN,web-sentry.kurogame.net
   - DOMAIN,qcloud-sg-datareceiver.kurogame.xyz
   
+  - DOMAIN,hw-pcdownload-qcloud.aki-game.net
+  - DOMAIN,prod-alicdn-gamestarter.kurogame.com
+  - DOMAIN,pc.crashsight.wetest.net
+  
   # - DOMAIN-SUFFIX,kurogame-service.com
   # - DOMAIN-SUFFIX,kurogame.xyz
   # - DOMAIN-SUFFIX,kurogame.net
