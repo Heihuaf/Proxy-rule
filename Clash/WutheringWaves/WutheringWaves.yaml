@@ -23,6 +23,7 @@ payload:
   # 下载
   - DOMAIN,hw-pcdownload-qcloud.aki-game.net
   - DOMAIN,pcdownload-huoshan.aki-game.net
+  - DOMAIN,hw-pcdownload-aws.aki-game.net
   
   # - DOMAIN-SUFFIX,kurogame-service.com
   # - DOMAIN-SUFFIX,kurogame.xyz
