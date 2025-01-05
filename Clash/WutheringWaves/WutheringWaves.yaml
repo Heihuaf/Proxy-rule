@@ -12,6 +12,7 @@ payload:
   - DOMAIN,aki-gm-resources-back.aki-game.net
   - DOMAIN,web-sentry.kurogame.net
   - DOMAIN,qcloud-sg-datareceiver.kurogame.xyz
+  - DOMAIN,tqos-yun.listdl.com
 
   ## Launcher.exe
   - DOMAIN,prod-alicdn-gamestarter.kurogame.com

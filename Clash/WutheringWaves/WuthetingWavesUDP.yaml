@@ -29,4 +29,4 @@ payload:
 
   - IP-CIDR,150.109.107.145/32,no-resolve
 
-  - DOMAIN,tqos-yun.listdl.com
+  # - DOMAIN,tqos-yun.listdl.com
