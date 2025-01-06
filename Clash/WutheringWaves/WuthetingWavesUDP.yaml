@@ -39,5 +39,6 @@ payload:
   # SEA
   - IP-CIDR,43.156.61.160/32,no-resolve
   - IP-CIDR,43.134.168.171/32,no-resolve
+  - IP-CIDR,43.134.37.119/32,no-resolve
 
   # - DOMAIN,tqos-yun.listdl.com
