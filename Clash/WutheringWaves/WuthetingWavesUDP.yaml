@@ -33,6 +33,7 @@ payload:
   - IP-CIDR,43.130.254.82/32,no-resolve
   - IP-CIDR,43.133.205.231/32,no-resolve
   - IP-CIDR,43.133.0.131/32,no-resolve
+  - IP-CIDR,43.133.221.214/32,no-resolve
   - IP-CIDR,43.133.9.74/32,no-resolve
   # SEA
   - IP-CIDR,43.156.61.160/32,no-resolve
