@@ -11,9 +11,6 @@ payload:
 
   - IP-CIDR,43.154.116.188/32,no-resolve
   
-  - IP-CIDR,43.159.48.0/24,no-resolve
-  # - IP-CIDR,43.159.48.93/32,no-resolve
-  # - IP-CIDR,43.159.48.102/32,no-resolve
   - IP-CIDR,43.159.198.127/32,no-resolve
   
 
@@ -36,9 +33,13 @@ payload:
   - IP-CIDR,43.130.254.82/32,no-resolve
   - IP-CIDR,43.133.205.231/32,no-resolve
   - IP-CIDR,43.133.0.131/32,no-resolve
+  - IP-CIDR,43.133.9.74/32,no-resolve
   # SEA
   - IP-CIDR,43.156.61.160/32,no-resolve
   - IP-CIDR,43.134.168.171/32,no-resolve
   - IP-CIDR,43.134.37.119/32,no-resolve
+  - IP-CIDR,43.159.48.0/24,no-resolve
+  # - IP-CIDR,43.159.48.93/32,no-resolve
+  # - IP-CIDR,43.159.48.102/32,no-resolve
 
   # - DOMAIN,tqos-yun.listdl.com
