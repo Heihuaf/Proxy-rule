@@ -7,6 +7,11 @@ payload:
 
   - IP-CIDR,150.109.107.145/32,no-resolve
 
+  ## EU
+  - IP-CIDR,162.62.0.0/16,游戏UDP
+  - IP-CIDR,43.157.0.0/16,游戏UDP
+  - IP-CIDR,43.158.90.177/32,游戏UDP
+
   ## HK
   - IP-CIDR,43.154.116.188/32,no-resolve
   - IP-CIDR,43.154.116.188/32,no-resolve
