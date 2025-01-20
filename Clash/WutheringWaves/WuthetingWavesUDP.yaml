@@ -11,6 +11,8 @@ payload:
   - IP-CIDR,162.62.0.0/16,游戏UDP
   - IP-CIDR,43.157.0.0/16,游戏UDP
   - IP-CIDR,43.158.90.177/32,游戏UDP
+  - IP-CIDR,49.51.171.36/32,游戏UDP
+  - IP-CIDR,43.131.45.97/32,游戏UDP
 
   ## HK
   - IP-CIDR,43.154.116.188/32,no-resolve
