@@ -12,7 +12,7 @@ payload:
   - IP-CIDR,43.157.0.0/16,游戏UDP
   - IP-CIDR,43.158.90.177/32,游戏UDP
   - IP-CIDR,49.51.171.36/32,游戏UDP
-  - IP-CIDR,43.131.45.97/32,游戏UDP
+  - IP-CIDR,43.131.0.0/16,游戏UDP
 
   ## HK
   - IP-CIDR,43.154.116.188/32,no-resolve
@@ -25,7 +25,7 @@ payload:
   - IP-CIDR,43.167.0.0/16,no-resolve
   - IP-CIDR,101.32.97.207/32,no-resolve
   - IP-CIDR,170.106.160.151/32,no-resolve
-  - IP-CIDR,124.156.228.83/32,no-resolve
+  - IP-CIDR,124.156.0.0/16,no-resolve
 
   ## SEA
   - IP-CIDR,43.134.0.0/16,no-resolve
