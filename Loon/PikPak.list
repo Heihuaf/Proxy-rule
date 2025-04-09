@@ -1,0 +1,10 @@
+# PikPak
+DOMAIN,access.pikpakdrive.com,REJECT
+DOMAIN,access.mypikpak.net,REJECT
+DOMAIN,access.pikpak.me,REJECT
+DOMAIN,access.mypikpak.com,REJECT
+DOMAIN-KEYWORD,dl-z01a-,DIRECT
+DOMAIN-KEYWORD,dl-a10b-,DIRECT
+IP-CIDR,219.79.223.156/32,DIRECT
+IP-CIDR,110.235.48.73/32,DIRECT
+DOMAIN-KEYWORD,mypikpak
